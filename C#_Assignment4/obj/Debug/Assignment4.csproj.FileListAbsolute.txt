@@ -1,0 +1,12 @@
+C:\Users\Nick\source\repos\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\Nick\source\repos\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\Nick\source\repos\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.Coin.resources
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.Form1.resources
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.Joke.resources
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.Properties.Resources.resources
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\Nick\source\repos\Assignment4\obj\Debug\Assignment4.pdb
