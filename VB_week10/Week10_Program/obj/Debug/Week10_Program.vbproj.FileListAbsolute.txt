@@ -1,0 +1,11 @@
+c:\users\nick\documents\visual studio 2015\Projects\Week10_Program\Week10_Program\bin\Debug\Week10_Program.exe.config
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\bin\Debug\Week10_Program.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\bin\Debug\Week10_Program.pdb
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\bin\Debug\Week10_Program.xml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.vbprojResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.Form1.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.Resources.resources
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.vbproj.GenerateResource.Cache
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.exe
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.xml
+C:\Users\Nick\Documents\Visual Studio 2015\Projects\Week10_Program\Week10_Program\obj\Debug\Week10_Program.pdb
